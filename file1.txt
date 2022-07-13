@@ -1,1 +1,2 @@
 adding some text to the file
+changing the text in the file in the conflict branch
